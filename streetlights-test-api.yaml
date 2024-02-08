@@ -12,7 +12,7 @@ metadata:
 spec:
   type: asyncapi
   lifecycle: incubation
-  owner: team
+  owner: team-c
   definition: |
     asyncapi: 2.0.0
     info:
