@@ -10,8 +10,8 @@ metadata:
       title: Source Code
       icon: code
 spec:
-  type: asyncapi
-  lifecycle: incubation
+  type: openapi
+  lifecycle: inc
   owner: team-c
   definition: |
     asyncapi: 2.0.0
