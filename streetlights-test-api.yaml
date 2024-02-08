@@ -12,7 +12,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: inc
-  owner: team-c
+  owner: pltf-pg
   definition: |
     asyncapi: 2.0.0
     info:
