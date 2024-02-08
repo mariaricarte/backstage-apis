@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: streetlights
+  name: streetlights-test
   description: The Smartylighting Streetlights API allows you to remotely manage the city lights.
   tags:
     - mqtt
@@ -12,7 +12,7 @@ metadata:
 spec:
   type: asyncapi
   lifecycle: incubation
-  owner: team-c
+  owner: team
   definition: |
     asyncapi: 2.0.0
     info:
